@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/psychologist/static/css/main.a8e2ca83.chunk.css",
-    "main.js": "/psychologist/static/js/main.2ca6dee2.chunk.js",
-    "main.js.map": "/psychologist/static/js/main.2ca6dee2.chunk.js.map",
+    "main.js": "/psychologist/static/js/main.99cc2f9e.chunk.js",
+    "main.js.map": "/psychologist/static/js/main.99cc2f9e.chunk.js.map",
     "runtime-main.js": "/psychologist/static/js/runtime-main.8f4f7840.js",
     "runtime-main.js.map": "/psychologist/static/js/runtime-main.8f4f7840.js.map",
     "static/css/2.ec02d681.chunk.css": "/psychologist/static/css/2.ec02d681.chunk.css",
@@ -14,8 +14,8 @@
     "static/css/2.ec02d681.chunk.css.map": "/psychologist/static/css/2.ec02d681.chunk.css.map",
     "static/css/main.a8e2ca83.chunk.css.map": "/psychologist/static/css/main.a8e2ca83.chunk.css.map",
     "static/js/2.e69860fa.chunk.js.LICENSE.txt": "/psychologist/static/js/2.e69860fa.chunk.js.LICENSE.txt",
+    "static/media/5.91a18208.jpg": "/psychologist/static/media/5.91a18208.jpg",
     "static/media/6.5cfade1b.jpg": "/psychologist/static/media/6.5cfade1b.jpg",
-    "static/media/IMG_5809.0b1667bd.JPG": "/psychologist/static/media/IMG_5809.0b1667bd.JPG",
     "static/media/main.scss": "/psychologist/static/media/et-line.d59b2385.woff",
     "static/media/schedule.44caac82.docx": "/psychologist/static/media/schedule.44caac82.docx"
   },
@@ -24,6 +24,6 @@
     "static/css/2.ec02d681.chunk.css",
     "static/js/2.e69860fa.chunk.js",
     "static/css/main.a8e2ca83.chunk.css",
-    "static/js/main.2ca6dee2.chunk.js"
+    "static/js/main.99cc2f9e.chunk.js"
   ]
 }
